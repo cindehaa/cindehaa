@@ -4,4 +4,3 @@ I'm currently focused on learning:
 - Agent orchestration & agent harnesses
 - Observability (& interpretability)
 - AutoML
-- 
