@@ -2,5 +2,5 @@ Hi, I'm Cindy. I'm a fourth year Computer Science student at the University of W
 
 I'm currently focused on learning:
 - Agent orchestration & agent harnesses
-- Observability (& interpretability)
-- AutoML
+- Observability
+- AutoML workflows
